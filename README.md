@@ -1,16 +1,7 @@
-# clc
+# calculator
 
-A new Flutter project.
+this is a calculator with responsive widgets and neo-style UI.
 
-## Getting Started
+## Language
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this app programmed and developed by dart language in flutter framework.
