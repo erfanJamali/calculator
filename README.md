@@ -1,7 +1,9 @@
-# calculator
+# Calculator
 
-this is a calculator with responsive widgets and neo-style UI.
+this is a calculator with responsive widgets and infinity number calculate.
 
-## Language
+## Challenges
 
-this app programmed and developed by dart language in flutter framework.
+1. Make all widgets responsive.
+2. Make beautiful neon style for widgets.
+3. Infinity number calculate.

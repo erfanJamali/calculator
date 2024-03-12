@@ -210,6 +210,7 @@ class _main_pageState extends State<main_page> {
                   tempTextVal =
                       (tempTextVal != "temp number") ? "0" : "temp number";
                   operator = "";
+                  break;
                 case "/":
                 case "*":
                 case "-":
@@ -223,7 +224,7 @@ class _main_pageState extends State<main_page> {
                   }
                   //
                   if (operator == btnText){
-                    operator = "";
+                     operator = "";
                   } else {
                     operator = btnText;
                     tempTextVal = mainTxtVal;
@@ -251,9 +252,9 @@ class _main_pageState extends State<main_page> {
                     } else {
                       mainTxtVal = btnText;
                     }
-                  } else
+                  } else {
                     mainTxtVal += btnText;
-
+                  }
                   break;
                 case ".":
                   //
